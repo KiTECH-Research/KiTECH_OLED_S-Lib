@@ -1,6 +1,6 @@
-#include "KiTECH_OLED.h"
+#include "KiTECH_OLED_S.h"
 
-KiTECH_OLED oled;
+KiTECH_OLED_S oled;
 
 int errorLed = 4;
 
