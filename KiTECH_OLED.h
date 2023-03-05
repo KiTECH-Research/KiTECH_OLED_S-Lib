@@ -1,9 +1,9 @@
-#ifndef KiTECH_OLED_h
-#define KiTECH_OLED_h
+#ifndef KiTECH_OLED_S_h
+#define KiTECH_OLED_S_h
 
 #include "Arduino.h"
 
-class KiTECH_OLED
+class KiTECH_OLED_S
 {
 private:
 
